@@ -50,6 +50,7 @@
 
 ## ⚡ About Me
 
+```yaml
 identity:
   name: Sameer Yaseen A S
   title: AI/ML Engineer & Computer Vision Developer
@@ -77,6 +78,8 @@ engineering_philosophy: >
   and build robust production-ready AI systems backed by real metrics.
 
 <br/>
+
+```
 
 ---
 
