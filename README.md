@@ -1,13 +1,10 @@
-Here is the complete **README.md** code in a single code block. Click **Copy** in the top-right of the box below and paste it directly into your GitHub repository `README.md` file:
-
-markdown
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b0f19,35:1e1b4b,70:311042,100:0b0f19&text=SAMEER%20YASEEN%20A%20S&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=AI/ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Science&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- Animated Live Typing Subtitle -->
-  <a href="https://github.com/SameerYaseen">
+  <a href="https://github.com/528664-007">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Computer+Vision+%7C+Data+Science;98%25+Accuracy+CNN+%C2%B7+Sub-100ms+Inference+Pipelines;Production+RAG+%2B+Real-Time+CV+%2B+Predictive+ML+Systems;B.E.+CSE+%40+RIT+%C2%B7+B.S.+Data+Science+%40+IIT+Madras" alt="Typing SVG" />
   </a>
 
@@ -20,15 +17,15 @@ markdown
     </a>
     <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-0b0f19?style=for-the-badge&logo=googlemaps&logoColor=A855F7"/>
     <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20%26%20Research%20Roles-00F5FF?style=for-the-badge&labelColor=0b0f19&color=00F5FF"/>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=528664-007&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
   </p>
 
   <p align="center">
-    <a href="https://github.com/YOUR_USERNAME?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00F5FF&labelColor=0b0f19"/>
+    <a href="https://github.com/528664-007?tab=followers">
+      <img src="https://img.shields.io/github/followers/528664-007?style=for-the-badge&color=00F5FF&labelColor=0b0f19"/>
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-      <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=A855F7&labelColor=0b0f19"/>
+    <a href="https://github.com/528664-007?tab=repositories">
+      <img src="https://img.shields.io/github/stars/528664-007?style=for-the-badge&color=A855F7&labelColor=0b0f19"/>
     </a>
   </p>
 
@@ -305,24 +302,24 @@ flowchart LR
 <div align="center">
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&column=4&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=528664-007&theme=algolia&margin-w=15&margin-h=15&column=4&no-bg=true"/>
   </p>
 
   <table border="0">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00F5FF&icon_color=A855F7&text_color=94A3B8"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=528664-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00F5FF&icon_color=A855F7&text_color=94A3B8"/>
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00F5FF&text_color=94A3B8"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=528664-007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00F5FF&text_color=94A3B8"/>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0b0f19&stroke=00F5FF&ring=A855F7&fire=A855F7"/>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=528664-007&theme=tokyonight&hide_border=true&background=0b0f19&stroke=00F5FF&ring=A855F7&fire=A855F7"/>
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=528664-007&theme=tokyonight&utcOffset=5.5"/>
       </td>
     </tr>
   </table>
@@ -331,12 +328,12 @@ flowchart LR
 
   <!-- GitHub Activity Graph -->
   <p align="center">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0b0f19&color=00F5FF&line=A855F7&point=ffffff&hide_border=true"/>
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=528664-007&theme=react-dark&bg_color=0b0f19&color=00F5FF&line=A855F7&point=ffffff&hide_border=true"/>
   </p>
 
   <!-- Contribution Grid Snake -->
   <p align="center">
-    <img width="98%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
+    <img width="98%" src="https://raw.githubusercontent.com/528664-007/528664-007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
   </p>
 
 </div>
