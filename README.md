@@ -42,7 +42,6 @@
 - [💻 Tech Stack](#-tech-stack)
 - [🎓 Education & Certifications](#-education--certifications)
 - [📊 Live GitHub Analytics](#-live-github-analytics)
-- [⚡ Coding Profiles](#-coding-profiles)
 - [🗺️ AI Roadmap 2026](#️-ai-roadmap-2026)
 
 <br/>
@@ -334,31 +333,6 @@ flowchart LR
   <!-- Contribution Grid Snake -->
   <p align="center">
     <img width="98%" src="https://raw.githubusercontent.com/528664-007/528664-007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
-  </p>
-
-</div>
-
-<br/>
-
----
-
-## ⚡ Coding Profiles
-
-<div align="center">
-
-  <p align="center">
-    <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-    &nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-    &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-    &nbsp;&nbsp;
-    <a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  </p>
-
-  <!-- Live LeetCode Heatmap/Stat Card -->
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Fira%20Code&ext=heatmap"/>
   </p>
 
 </div>
