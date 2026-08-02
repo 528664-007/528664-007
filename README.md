@@ -42,6 +42,7 @@
 - [💻 Tech Stack](#-tech-stack)
 - [🎓 Education & Certifications](#-education--certifications)
 - [📊 Live GitHub Analytics](#-live-github-analytics)
+- [⚡ Coding Profiles](#-coding-profiles)
 - [🗺️ AI Roadmap 2026](#️-ai-roadmap-2026)
 
 <br/>
@@ -50,7 +51,7 @@
 
 ## ⚡ About Me
 
-yaml
+```yaml
 identity:
   name: Sameer Yaseen A S
   title: AI/ML Engineer & Computer Vision Developer
@@ -76,7 +77,7 @@ impact_metrics:
 engineering_philosophy: >
   Ship high-performance models, optimize for low-latency inference, 
   and build robust production-ready AI systems backed by real metrics.
-
+```
 
 <br/>
 
@@ -84,7 +85,7 @@ engineering_philosophy: >
 
 ## 🗓️ Career & Academic Timeline
 
-
+```mermaid
 timeline
     title Sameer's AI & Software Engineering Journey
     2023 : B.E. CSE Begins @ Rajalakshmi Institute of Technology
@@ -97,7 +98,7 @@ timeline
          : Sep–Nov — AI/ML Engineer Intern @ CSIR-CEERI (Drowsiness Detection)
          : Dec — Legal RAG System (LangChain + Qdrant, Hybrid Retrieval)
     2026 : May — Predictive Maintenance System (LSTM-VAE + XGBoost, Sub-100ms Latency)
-
+```
 
 <br/>
 
@@ -154,7 +155,7 @@ timeline
 <summary><b>📄 Legal RAG System</b> — Hybrid Retrieval + Re-ranking for Legal Q&A</summary>
 <br/>
 
-
+```mermaid
 flowchart LR
     A[User Query] --> B[Query Encoder]
     B --> C{Hybrid Search}
@@ -165,7 +166,7 @@ flowchart LR
     F --> G[Context Assembly]
     G --> H[LangChain + LLM]
     H --> I[Answer + Citations]
-
+```
 
 - **Description:** Production-grade Retrieval-Augmented Generation pipeline over large legal document collections.
 - **Tech Stack:** `Python` `Qdrant` `LangChain` `FastAPI` `BM25` `LLMs`
@@ -341,16 +342,41 @@ flowchart LR
 
 ---
 
+## ⚡ Coding Profiles
+
+<div align="center">
+
+  <p align="center">
+    <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    &nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  </p>
+
+  <!-- Live LeetCode Heatmap/Stat Card -->
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Fira%20Code&ext=heatmap"/>
+  </p>
+
+</div>
+
+<br/>
+
+---
+
 ## 🗺️ AI Roadmap 2026
 
-
+```mermaid
 flowchart LR
     A[Current Focus: CNN, LSTM-VAE, XGBoost & Hybrid RAG] --> B[Vision Transformers ViT]
     A --> C[Multi-Agent LLM Orchestration]
     B --> D[MLOps & Kubernetes Deployments]
     C --> D
     D --> E[End-to-End Enterprise AI Products]
-
+```
 
 #### 🎯 Active Objectives
 - [ ] Master Vision Transformers & Diffusion Architectures.
