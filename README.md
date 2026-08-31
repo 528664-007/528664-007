@@ -1,3 +1,6 @@
+Here is your **complete, fully corrected, and polished README.md** code with all syntax errors (including the misplaced HTML tags inside code blocks) fixed and ready to paste:
+
+markdown
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
@@ -50,7 +53,7 @@
 
 ## ⚡ About Me
 
-```yaml
+yaml
 identity:
   name: Sameer Yaseen A S
   title: AI/ML Engineer & Computer Vision Developer
@@ -77,15 +80,14 @@ engineering_philosophy: >
   Ship high-performance models, optimize for low-latency inference, 
   and build robust production-ready AI systems backed by real metrics.
 
-<br/>
 
-```
+<br/>
 
 ---
 
 ## 🗓️ Career & Academic Timeline
 
-```mermaid
+
 timeline
     title Sameer's AI & Software Engineering Journey
     2023 : B.E. CSE Begins @ Rajalakshmi Institute of Technology
@@ -98,7 +100,7 @@ timeline
          : Sep–Nov — AI/ML Engineer Intern @ CSIR-CEERI (Drowsiness Detection)
          : Dec — Legal RAG System (LangChain + Qdrant, Hybrid Retrieval)
     2026 : May — Predictive Maintenance System (LSTM-VAE + XGBoost, Sub-100ms Latency)
-```
+
 
 <br/>
 
@@ -155,7 +157,7 @@ timeline
 <summary><b>📄 Legal RAG System</b> — Hybrid Retrieval + Re-ranking for Legal Q&A</summary>
 <br/>
 
-```mermaid
+
 flowchart LR
     A[User Query] --> B[Query Encoder]
     B --> C{Hybrid Search}
@@ -166,7 +168,7 @@ flowchart LR
     F --> G[Context Assembly]
     G --> H[LangChain + LLM]
     H --> I[Answer + Citations]
-```
+
 
 - **Description:** Production-grade Retrieval-Augmented Generation pipeline over large legal document collections.
 - **Tech Stack:** `Python` `Qdrant` `LangChain` `FastAPI` `BM25` `LLMs`
@@ -344,14 +346,13 @@ flowchart LR
 
 ## 🗺️ AI Roadmap 2026
 
-```mermaid
+
 flowchart LR
     A[Current Focus: CNN, LSTM-VAE, XGBoost & Hybrid RAG] --> B[Vision Transformers ViT]
     A --> C[Multi-Agent LLM Orchestration]
     B --> D[MLOps & Kubernetes Deployments]
     C --> D
     D --> E[End-to-End Enterprise AI Products]
-```
 
 #### 🎯 Active Objectives
 - [ ] Master Vision Transformers & Diffusion Architectures.
