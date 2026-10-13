@@ -1,6 +1,3 @@
-Here is your **complete, fully corrected, and polished README.md** code with all syntax errors (including the misplaced HTML tags inside code blocks) fixed and ready to paste:
-
-markdown
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
@@ -28,7 +25,7 @@ markdown
       <img src="https://img.shields.io/github/followers/528664-007?style=for-the-badge&color=00F5FF&labelColor=0b0f19"/>
     </a>
     <a href="https://github.com/528664-007?tab=repositories">
-      <img src="https://img.shields.io/github/stars/528664-007?style=for-the-badge&color=A855F7&labelColor=0b0f19"/>
+      <img src="https://img.shields.io/badge/GitHub-Repositories-A855F7?style=for-the-badge&logo=github&labelColor=0b0f19"/>
     </a>
   </p>
 
@@ -53,7 +50,7 @@ markdown
 
 ## ⚡ About Me
 
-yaml
+```yaml
 identity:
   name: Sameer Yaseen A S
   title: AI/ML Engineer & Computer Vision Developer
@@ -77,9 +74,9 @@ impact_metrics:
   - 30% Reduction in Manual Reporting Workflows at Deloitte USI
 
 engineering_philosophy: >
-  Ship high-performance models, optimize for low-latency inference, 
+  Ship high-performance models, optimize for low-latency inference,
   and build robust production-ready AI systems backed by real metrics.
-
+```
 
 <br/>
 
@@ -87,20 +84,20 @@ engineering_philosophy: >
 
 ## 🗓️ Career & Academic Timeline
 
-
+```mermaid
 timeline
     title Sameer's AI & Software Engineering Journey
-    2023 : B.E. CSE Begins @ Rajalakshmi Institute of Technology
-         : B.S. Data Science Begins @ IIT Madras
-    2024 : Computer Vision Research Lead @ RIT
-         : Deployed Real-Time Player Tracking (~95% Acc @ 30 FPS)
-    2025 : Feb — E-Commerce Recommendation Engine (Collaborative Filtering)
-         : Aug — Data Analytics Intern @ Deloitte USI (50K+ Records Automated)
-         : Sep — Lung Cancer Detection CNN (98% Accuracy, Outperformed ResNet50)
-         : Sep–Nov — AI/ML Engineer Intern @ CSIR-CEERI (Drowsiness Detection)
-         : Dec — Legal RAG System (LangChain + Qdrant, Hybrid Retrieval)
-    2026 : May — Predictive Maintenance System (LSTM-VAE + XGBoost, Sub-100ms Latency)
-
+    2023 : B.E. CSE begins at Rajalakshmi Institute of Technology
+         : B.S. Data Science begins at IIT Madras
+    2024 : Computer Vision Research Lead at RIT
+         : Deployed Real-Time Player Tracking (~95% Acc at 30 FPS)
+    2025 : Feb - E-Commerce Recommendation Engine (Collaborative Filtering)
+         : Aug - Data Analytics Intern at Deloitte USI (50K+ Records Automated)
+         : Sep - Lung Cancer Detection CNN (98% Accuracy, Outperformed ResNet50)
+         : Sep to Nov - AI/ML Engineer Intern at CSIR-CEERI (Drowsiness Detection)
+         : Dec - Legal RAG System (LangChain + Qdrant, Hybrid Retrieval)
+    2026 : May - Predictive Maintenance System (LSTM-VAE + XGBoost, Sub-100ms Latency)
+```
 
 <br/>
 
@@ -112,7 +109,7 @@ timeline
 <tr>
 <td width="100%">
 
-### 🔬 **AI/ML Engineer & Data Scientist Intern** \| *CSIR-CEERI*
+### 🔬 **AI/ML Engineer & Data Scientist Intern** | *CSIR-CEERI*
 `Sep 2025 – Nov 2025`
 
 - Engineered a real-time drowsiness detection system using OpenCV and CNN architectures.
@@ -124,7 +121,7 @@ timeline
 <tr>
 <td width="100%">
 
-### 📊 **Data Analytics Intern (Virtual)** \| *Deloitte USI (via Forage)*
+### 📊 **Data Analytics Intern (Virtual)** | *Deloitte USI (via Forage)*
 `Aug 2025`
 
 - Automated complex multi-source data reporting workflows for **50,000+ records** using Python (Pandas), Power BI, and Excel.
@@ -136,7 +133,7 @@ timeline
 <tr>
 <td width="100%">
 
-### 🎥 **Computer Vision Research Lead** \| *Rajalakshmi Institute of Technology*
+### 🎥 **Computer Vision Research Lead** | *Rajalakshmi Institute of Technology*
 `Jul 2024 – Apr 2025`
 
 - Architected and deployed an end-to-end real-time player tracking system leveraging OpenCV and Flask backends.
@@ -154,10 +151,10 @@ timeline
 ## 🔬 Featured Projects
 
 <details open>
-<summary><b>📄 Legal RAG System</b> — Hybrid Retrieval + Re-ranking for Legal Q&A</summary>
+<summary><b>📄 Legal RAG System</b> — Hybrid Retrieval + Re-ranking for Legal Q&amp;A</summary>
 <br/>
 
-
+```mermaid
 flowchart LR
     A[User Query] --> B[Query Encoder]
     B --> C{Hybrid Search}
@@ -168,7 +165,7 @@ flowchart LR
     F --> G[Context Assembly]
     G --> H[LangChain + LLM]
     H --> I[Answer + Citations]
-
+```
 
 - **Description:** Production-grade Retrieval-Augmented Generation pipeline over large legal document collections.
 - **Tech Stack:** `Python` `Qdrant` `LangChain` `FastAPI` `BM25` `LLMs`
@@ -280,12 +277,12 @@ flowchart LR
 ## 🎓 Education & Certifications
 
 ### 🎓 Education
-- **B.E. Computer Science & Engineering** \| *Rajalakshmi Institute of Technology* `Sep 2023 – Present`  
+- **B.E. Computer Science & Engineering** | *Rajalakshmi Institute of Technology* `Sep 2023 – Present`
   - **CGPA:** `8.81 / 10`
-- **B.S. Data Science & Applications** \| *IIT Madras* `Dec 2023 – Present`  
+- **B.S. Data Science & Applications** | *IIT Madras* `Dec 2023 – Present`
   - **Status:** `Year 2 (In Progress)` — Focus on Statistical Learning & Machine Learning Foundations
-- **AISSCE (12th Grade)** \| *Kendriya Vidyalaya Gill Nagar* `82.8%`
-- **AISSE (10th Grade)** \| *Kendriya Vidyalaya Gill Nagar* `88.6%`
+- **AISSCE (12th Grade)** | *Kendriya Vidyalaya Gill Nagar* `82.8%`
+- **AISSE (10th Grade)** | *Kendriya Vidyalaya Gill Nagar* `88.6%`
 
 ### 📜 Certifications
 <p align="left">
@@ -318,7 +315,7 @@ flowchart LR
     </tr>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=528664-007&theme=tokyonight&hide_border=true&background=0b0f19&stroke=00F5FF&ring=A855F7&fire=A855F7"/>
+        <img width="100%" src="https://streak-stats.demolab.com/?user=528664-007&theme=tokyonight&hide_border=true&background=0b0f19&stroke=00F5FF&ring=A855F7&fire=A855F7"/>
       </td>
       <td width="50%">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=528664-007&theme=tokyonight&utcOffset=5.5"/>
@@ -333,7 +330,7 @@ flowchart LR
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=528664-007&theme=react-dark&bg_color=0b0f19&color=00F5FF&line=A855F7&point=ffffff&hide_border=true"/>
   </p>
 
-  <!-- Contribution Grid Snake -->
+  <!-- Contribution Grid Snake (requires the Platane/snk workflow in your 528664-007/528664-007 repo) -->
   <p align="center">
     <img width="98%" src="https://raw.githubusercontent.com/528664-007/528664-007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
   </p>
@@ -346,13 +343,14 @@ flowchart LR
 
 ## 🗺️ AI Roadmap 2026
 
-
+```mermaid
 flowchart LR
-    A[Current Focus: CNN, LSTM-VAE, XGBoost & Hybrid RAG] --> B[Vision Transformers ViT]
+    A["Current Focus: CNN, LSTM-VAE, XGBoost and Hybrid RAG"] --> B[Vision Transformers ViT]
     A --> C[Multi-Agent LLM Orchestration]
-    B --> D[MLOps & Kubernetes Deployments]
+    B --> D[MLOps and Kubernetes Deployments]
     C --> D
     D --> E[End-to-End Enterprise AI Products]
+```
 
 #### 🎯 Active Objectives
 - [ ] Master Vision Transformers & Diffusion Architectures.
